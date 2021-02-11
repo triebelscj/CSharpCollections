@@ -1,0 +1,12 @@
+/Users/cjtriebels/Desktop/c#/collections/obj/Debug/netcoreapp3.1/collections.csprojAssemblyReference.cache
+/Users/cjtriebels/Desktop/c#/collections/obj/Debug/netcoreapp3.1/collections.AssemblyInfoInputs.cache
+/Users/cjtriebels/Desktop/c#/collections/obj/Debug/netcoreapp3.1/collections.AssemblyInfo.cs
+/Users/cjtriebels/Desktop/c#/collections/obj/Debug/netcoreapp3.1/collections.csproj.CoreCompileInputs.cache
+/Users/cjtriebels/Desktop/c#/collections/bin/Debug/netcoreapp3.1/collections.deps.json
+/Users/cjtriebels/Desktop/c#/collections/bin/Debug/netcoreapp3.1/collections.runtimeconfig.json
+/Users/cjtriebels/Desktop/c#/collections/bin/Debug/netcoreapp3.1/collections.runtimeconfig.dev.json
+/Users/cjtriebels/Desktop/c#/collections/bin/Debug/netcoreapp3.1/collections.dll
+/Users/cjtriebels/Desktop/c#/collections/bin/Debug/netcoreapp3.1/collections.pdb
+/Users/cjtriebels/Desktop/c#/collections/obj/Debug/netcoreapp3.1/collections.dll
+/Users/cjtriebels/Desktop/c#/collections/obj/Debug/netcoreapp3.1/collections.pdb
+/Users/cjtriebels/Desktop/c#/collections/obj/Debug/netcoreapp3.1/collections.genruntimeconfig.cache
